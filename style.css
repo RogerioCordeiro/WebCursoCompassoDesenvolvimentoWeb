@@ -1,3 +1,16 @@
+h1 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px black;
+}
+h2 {
+    text-align: center;
+    font-size: 15px;
+    color: aqua;
+}
 body {
-    background-color: blanchedalmond;
+    background-color: rgb(104, 103, 102);
 }
