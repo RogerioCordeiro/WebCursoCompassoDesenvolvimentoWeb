@@ -1,26 +1,4 @@
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
-.square_1 {
-  width: 200px;
-  height: 200px;
-  margin: 10px;
-  background-color: aqua;
-  border: 5px solid black;
-}
-
-.square_2 {
-  width: 200px;
-  height: 200px;
-  margin: 10px;
-  background-color: aqua;
-  border: 5px solid black;
-  border-bottom: 10px solid yellow;
-}
 
 
 
