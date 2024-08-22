@@ -8,18 +8,15 @@
 .square_1 {
   width: 200px;
   height: 200px;
-  margin: 10px;
-  background-color: aqua;
-  border: 5px solid black;
+  background-image: linear-gradient(to bottom right, black, yellow 50%);
+  margin: 20px;
 }
 
 .square_2 {
   width: 200px;
   height: 200px;
-  margin: 10px;
-  background-color: aqua;
-  border: 5px solid black;
-  border-bottom: 10px solid yellow;
+  background-image: radial-gradient(rgb(0, 0, 0), rgb(0, 254, 156));
+  margin: 20px;
 }
 
 
